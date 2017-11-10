@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void birl(){
+void birlLLLL(){
 	printf("que que se qué mostrão? \n");
 }
