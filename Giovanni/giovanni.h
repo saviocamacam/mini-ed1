@@ -4,5 +4,5 @@
 
 
 void Teste (){
-	printf("teste de githunb");
+	printf("teste de github\n");
 }
