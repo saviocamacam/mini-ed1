@@ -9,5 +9,5 @@ int mutiply(int a, int b) {
 }
 
 void imprimeVerdades() {
-  pritnf("xxxx, melhor professor");
+  printf("xxxx, melhor professor");
 }
