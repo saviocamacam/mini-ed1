@@ -46,4 +46,9 @@ int main() {
 	printf("Teste da Zorawski\n");
 	tzora();
 
+<<<<<<< HEAD
+=======
+	printf("O Zé é um bobão\n");
+
+>>>>>>> pipoco
 }

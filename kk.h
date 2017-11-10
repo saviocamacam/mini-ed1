@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> pipoco
 #include <stdio.h>
 #include <stdlib.h>
 
 void test(int valor){
 	if(valor>0)
+<<<<<<< HEAD
 		printf("A Terra é plana!\n");
 	else if(valor<0)
 		printf("A Terra é redonda!\n");
@@ -23,3 +27,11 @@ void test(int valor){
 		printf("nain, o jorge cai da cadeira\n");
 }
 >>>>>>> ec34f8edd2baaa98e5040ff76210ff2e715b21b2
+=======
+		printf("ola\n");
+	else if(valor<0)
+		printf("Hello\n");
+	else
+		printf("nain, o jorge cai da cadeira\n");
+}
+>>>>>>> pipoco
