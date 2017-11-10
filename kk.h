@@ -7,5 +7,5 @@ void test(int valor){
 	else if(valor<0)
 		printf("Hello\n");
 	else
-		printf("nain\n");
+		printf("nain, o jorge cai da cadeira\n");
 }
