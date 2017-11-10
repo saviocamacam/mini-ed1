@@ -3,9 +3,9 @@
 
 void test(int valor){
 	if(valor>0)
-		printf("ola\n");
+		printf("A Terra é plana!\n");
 	else if(valor<0)
-		printf("Hello\n");
+		printf("A Terra é redonda!\n");
 	else
-		printf("nain\n");
+		printf("A Terra é oval!\n");
 }
